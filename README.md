@@ -1,2 +1,10 @@
 # hello-world
-La concha de tu madre allboys
+#include <iostream>
+  
+  using namespace std;
+
+int main ()
+{
+cout << La concha de tu madre allboys << endl;
+return ;
+}
